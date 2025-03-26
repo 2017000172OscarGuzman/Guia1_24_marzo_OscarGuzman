@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\bin\Debug\net8.0-windows\Guia1MatrizyVector.exe
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\bin\Debug\net8.0-windows\Guia1MatrizyVector.deps.json
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\bin\Debug\net8.0-windows\Guia1MatrizyVector.runtimeconfig.json
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\bin\Debug\net8.0-windows\Guia1MatrizyVector.dll
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\bin\Debug\net8.0-windows\Guia1MatrizyVector.pdb
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.Form1.resources
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.AssemblyInfo.cs
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.dll
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\refint\Guia1MatrizyVector.dll
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.pdb
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.genruntimeconfig.cache
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\ref\Guia1MatrizyVector.dll
+C:\Users\usuario\Desktop\vsual\Guia1MatrizyVector\Guia1MatrizyVector\obj\Debug\net8.0-windows\Guia1MatrizyVector.form2.resources
